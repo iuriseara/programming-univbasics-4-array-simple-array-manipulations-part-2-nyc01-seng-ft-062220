@@ -2,7 +2,7 @@ def using_concat(array, element)
   array.concat(element)
 end
 
-def using_insert(array, string)
+def using_insert(integer, string)
   array.insert(index,string)
 end
 
